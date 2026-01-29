@@ -1,9 +1,6 @@
 ## Meu nome é Ryan Poscidonio 👋
 
-<!--
-**Ryanzets/Ryanzets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou desempregado, porem procurando empregos que de preferencia sejam nda area de tecnologia. 
 - 🌱 Recentemente estou estudando sobre Desenvolvimentos de Sistemas e Programação em geral.
